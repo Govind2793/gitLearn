@@ -5,6 +5,4 @@ Yellow
 White
 Orange
 Blue
-This is a master of 07
-Some of these country have a great symbol 
-India is one of the country
+The file should not tallk about the contributor
