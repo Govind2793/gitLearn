@@ -2,11 +2,10 @@
 Learning the basics of github 
 
 
-:white_check_mark:
+:white_check_mark: <br/>
 
-✅
 
-- [X] Introductory code 
-	:white_large_square Hello Ji
+
+:white_large_square Hello Ji
   
-  :white_check_mark: All Servers of SLOv2
+:white_check_mark: All Servers of SLOv2
