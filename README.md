@@ -7,6 +7,6 @@ Learning the basics of github
 ✅
 
 - [X] Introductory code 
-	:white_square: :white_square: All Servers of SLOv2
-	:white_square: Hello
-  :white_check_mark: Not Hello
+	:white_large_square Hello Ji
+  
+  :white_check_mark: All Servers of SLOv2
