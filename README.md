@@ -1,4 +1,4 @@
-:white_check_mark: &ensp;  Introduction <br/>
+:white_check_mark:&ensp;Introduction <br/>
 :white_check_mark:  &ensp; Setup <br/>
 :white_check_mark: Introductory code <br/>
 :white_large_square: All Servers of SLOv2 <br/>
