@@ -1,5 +1,5 @@
-:white_check_mark:&ensp;Introduction <br/>
-:white_check_mark:  &ensp; Setup <br/>
+&ensp; :white_check_mark:&ensp;Introduction <br/>
+&ensp; :white_check_mark:  &ensp; Setup <br/>
 :white_check_mark: Introductory code <br/>
 :white_large_square: All Servers of SLOv2 <br/>
 :white_large_square: Exhaustive use of configs/Resources <br/>
