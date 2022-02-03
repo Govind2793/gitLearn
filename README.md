@@ -1,11 +1,9 @@
-# gitLearn
-Learning the basics of github 
-
-
-:white_check_mark: <br/>
-
-
-
-:white_large_square: Hello Ji
-  
-:white_check_mark: All Servers of SLOv2
+:white_check_mark: Introduction <br/>
+:white_check_mark: Setup <br/>
+:white_check_mark: Introductory code <br/>
+:white_large_square: All Servers of SLOv2 <br/>
+:white_large_square: Exhaustive use of configs/Resources <br/>
+:white_large_square: Much more detailed [Running]() section <br/>
+:white_large_square: Bash scripts to improve deployment experience <br/>
+:white_large_square: Testing scripts with Kind <br/>
+:white_large_square: Addition of china regions <br/>
