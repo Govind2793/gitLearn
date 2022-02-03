@@ -6,6 +6,6 @@ Learning the basics of github
 
 
 
-:white_large_square Hello Ji
+:white_large_square: Hello Ji
   
 :white_check_mark: All Servers of SLOv2
